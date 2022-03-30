@@ -1,0 +1,32 @@
+table {
+    width: 600px;
+    font-family: Arial;
+    font-size: 12px;
+    background: #c7e7f3;
+}
+
+.tabela-titulo {
+    background-color: #0D5188;
+    color: white;
+}
+
+.tabela-subtitulo {
+    background-color: #66c5e3;
+}
+
+.pop {
+    background-color: #c7e7f3;
+    text-align: center;
+    width: 15%;
+}
+
+.posicao {
+    background-color: silver;
+    text-align: center;
+    width: 10%;
+}
+
+.cidade {
+    background-color: #c7e7f3;
+    color: #0D5188;
+}
